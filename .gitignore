@@ -1,1 +1,5 @@
+/AlexNet/data_set/flower_photos.tgz
+/AlexNet/data_set/flower_data
+/AlexNet/data_set/train
 /AlexNet/data_set/
+*.pth
