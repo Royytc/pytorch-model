@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -15,11 +16,16 @@
   <component name="ChangeListManager">
     <list default="true" id="42b2b073-e6d2-4d09-a74b-d04fdac53e8f" name="默认变更列表" comment="" />
 >>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="42b2b073-e6d2-4d09-a74b-d04fdac53e8f" name="默认变更列表" comment="" />
+>>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,10 +65,15 @@
   </component>
   <component name="ProjectId" id="1qp6QFygsm136bmINJ7Dl7X9whI" />
 =======
+=======
+>>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1r4LaktWtZqY3hiG35GfBHydcL6" />
+<<<<<<< HEAD
+>>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
+=======
 >>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -71,6 +82,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
 <<<<<<< HEAD
     <property name="TODO_SCOPE" value="所有位置" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -116,6 +128,8 @@
       <method v="2" />
     </configuration>
 =======
+=======
+>>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
     <property name="last_opened_file_path" value="$USER_HOME$/data/github_file/yolo3-pytorch" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -126,6 +140,9 @@
     </key>
   </component>
   <component name="RunManager">
+<<<<<<< HEAD
+>>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
+=======
 >>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
     <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch-model" />
@@ -148,6 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <configuration name="random_sample_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch-model" />
@@ -281,6 +299,8 @@
     </task>
     <option name="localTasksCounter" value="4" />
 =======
+=======
+>>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
     <recent_temporary>
       <list>
         <item itemvalue="Python.predict" />
@@ -296,12 +316,16 @@
       <option name="presentableId" value="Default" />
       <updated>1618230481403</updated>
     </task>
+<<<<<<< HEAD
+>>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
+=======
 >>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+<<<<<<< HEAD
 <<<<<<< HEAD
         <entry key="63b3e793-11b3-4f6c-8076-b69f743ebdd6">
           <value>
@@ -377,6 +401,11 @@
           <value>
             <State />
 >>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
+=======
+        <entry key="MAIN">
+          <value>
+            <State />
+>>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
           </value>
         </entry>
       </map>
@@ -384,12 +413,15 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="try test" />
     <MESSAGE value="Revert &quot;try test&quot;&#10;&#10;This reverts commit 0be33c4b" />
     <MESSAGE value="Revert &quot;AlexNet v5 2021-0412-18:54&quot;&#10;&#10;This reverts commit 79e6b8fb" />
     <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;AlexNet v5 2021-0412-18:54&quot;&#10;&#10;This reverts commit 79e6b8fb" />
 =======
+=======
+>>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -399,6 +431,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+<<<<<<< HEAD
+>>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
+=======
 >>>>>>> e78b0e24f8a5f56b893008787a0b537a3ae88f17
   </component>
 </project>
